@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+p{
+	font-family: "Comic Sans MS",cursive;
+	font-size: 16px;
+	color: #FFF;
+	line-height: 18px;
+	padding: 5px;
+}
+
+.negritas{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 20px;
+	line-height: 20px;
+	font-weight: bold;
+	color: #90F;
+}
+
+.navegacion{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	color: #FFF;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+	background-color: #60C;
+	display: block;
+	width: 140px;
+	padding: 8px;
+
+}
